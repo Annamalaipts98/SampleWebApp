@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /WebApp/index.html
+  - source: /WebContent/index.html
     destination: /var/www/html/
